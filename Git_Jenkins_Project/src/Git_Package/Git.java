@@ -6,7 +6,9 @@ public class Git {
 		// TODO Auto-generated method stub
 
 		System.out.println("Git");
+		System.out.println("Git Project");
 		
 	}
 
 }
+
